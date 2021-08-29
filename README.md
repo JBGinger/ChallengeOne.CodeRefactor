@@ -16,8 +16,7 @@ List of notable edits made:\
     -Moved index.html to root directory.\
     -Added a descriptive README file.\
     -Added comments to CSS style elements to explain their purpose.\
-    -Within the style.css file: Moved style elements for the "main" section of the page so that they would appear before style elements for the "aside" section of the page.\
-    This improves readability, and ensures that the CSS elements appear in the same order as their corresponding HTML elements.\
+    -Within the style.css file: Improved readability by aligning CSS style elements with their corresponding HTML elements (as best as possible).
 
 Files in this project:\
 -assets\
