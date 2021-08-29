@@ -1,9 +1,9 @@
-README - Code Refactor Challenge.\
+README - Code Refactor Challenge.
 
-Project Description:\
+Project Description:
 
 The purpose of this project was to alter an existing website so that it would meet accessibility and search engine optimization standards.\
-While the website in the starter code mostly worked (aside from a broken link), a number of improvements were needed in order for the code to be more accessible/readable.\
+While the website in the starter code mostly worked (aside from a broken link), a number of improvements were needed in order for the code to be more accessible/readable.
 
 List of notable edits made:\
     -Fixed broken SEO link.\
@@ -34,7 +34,7 @@ Files in this project:\
         -screenshot.png\
 -.gitignore\
 -README.md\
--index.html\
+-index.html
 
 Screenshot of application:\
 ![alt text](assets/images/screenshot.png)
