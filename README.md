@@ -18,8 +18,8 @@ List of notable edits made:\
     -Added comments to CSS style elements to explain their purpose.\
     -Within the style.css file: Improved readability by aligning CSS style elements with their corresponding HTML elements (as best as possible).
 
-Files in this project:\
--assets\
+Files(-) and Directories(*) in this project:\
+*assets\
     *css\
         -style.css\
     *images\
